@@ -1,23 +1,17 @@
-# heimdall est un site vitrine statique ,dynamique et responsive  qui a été réaliser pour un photographe.
-Le travail à été réalisé en groupe  avec la méthode Agile.
+# Documentation
 
-A First Level Header
-====================
+WEB:
+*  Le Client: Heimdall & Photography
 
-A Second Level Header
----------------------
+*  Le Projet: un site Vitrine statique, dynamique et responsive.
+*  Les Langages informatiques utilisés: html, css, media queries, javascript et jquery.
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
+*  Le projet est réalisé en groupe,
+*  La méthode de travail utilisée est la Méthode Agile (kanban, trello, pomodoro,le maquettage du site avec figma et autres ...
 
-The quick brown fox jumped over the lazy
-dog's back.
+SEO:
+* Les fichiers html, css et les liens du site ont été testés afin de vérifier qu'ils correspondent bien aux normes w3c, "https://validator.w3.org/".
+* La vitesse de téléchargement du site a été testé sur getmetrix,"https://gtmetrix.com/".
 
-### Header 3
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
+
