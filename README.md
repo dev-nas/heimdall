@@ -1,5 +1,6 @@
 # Documentation
 
+
 WEB:
 *  Le Client: Heimdall & Photography
 
@@ -8,6 +9,8 @@ WEB:
 
 *  Le projet est réalisé en groupe,
 *  La méthode de travail utilisée est la Méthode Agile (kanban, trello, pomodoro,le maquettage du site avec figma et autres ...
+
+
 
 SEO:
 * Les fichiers html, css et les liens du site ont été testés afin de vérifier qu'ils correspondent bien aux normes w3c, "https://validator.w3.org/".
